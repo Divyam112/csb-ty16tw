@@ -1,0 +1,2 @@
+(this["webpackJsonphello-world-lunchtime-starter-code"]=this["webpackJsonphello-world-lunchtime-starter-code"]||[]).push([[0],{10:function(t,e,o){"use strict";o.r(e);o(1),o(4),o(8),o(0)},8:function(t,e,o){}},[[10,1,2]]]);
+//# sourceMappingURL=main.930bd490.chunk.js.map
